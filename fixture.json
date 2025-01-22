@@ -1,0 +1,15 @@
+[
+  {
+    "model": "products.category",
+    "pk": 1,
+    "fields": {
+      "name": "vegetables"
+    }
+  },
+  {"model": "products.category",
+    "pk": 2,
+    "fields": {
+      "name": "fruits"
+    }
+  }
+]
